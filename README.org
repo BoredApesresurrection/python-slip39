@@ -1,4 +1,4 @@
-#+title: SLIP-39 Wallet "Seed" Generation & Backup
+no#+title: SLIP-39 Wallet "Seed" Generation & Backup
 #+author: Perry Kundert
 #+email: perry@kundert.ca
 #+date: 2021-12-20 10:55:00
